@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>000001.jpg</filename>
+	<source>
+		<database>VOC</database>
+		<annotation>PASCAL VOC</annotation>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>panel</name>
+		<pose>Frontal</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>739</xmin>
+			<ymin>430</ymin>
+			<xmax>1475</xmax>
+			<ymax>796</ymax>
+		</bndbox>
+	</object>
+</annotation>
