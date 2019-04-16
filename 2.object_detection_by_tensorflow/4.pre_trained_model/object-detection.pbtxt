@@ -1,0 +1,25 @@
+item {
+  id: 1
+  name: 'blue'
+}
+
+item {
+  id: 2
+  name: 'yellow'
+}
+
+item {
+  id: 3
+  name: 'white'
+}
+
+item {
+  id: 4
+  name: 'red'
+}
+
+item {
+  id: 5
+  name: 'none'
+}
+
