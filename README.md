@@ -11,3 +11,6 @@ Add different methods for time series analysis.
 
 > Update 2019/04
   Add a base web server for object detection.
+
+> Update 2019/06
+  Add a transfer learning tutorial for NLP.
