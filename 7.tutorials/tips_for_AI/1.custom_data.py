@@ -84,7 +84,9 @@ model = Sequential([
     Dense(num_class, activation='softmax')
 ])
 
-
+model.compile(loss='categorical_crossentropy',
+              optimizer=keras.optimizers.Adam(learning_rate=1e-3, decay=1e-6),
+              metrics=['accuracy'])
 
 model.fit_generator(
         train_dataset,
